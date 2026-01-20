@@ -23,16 +23,19 @@ h1 {
   margin-bottom: 40px;
 }
 
+.section-title {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  color: #5fffd7;
+  text-align: left;
+}
+
 .card {
   background: rgba(95,255,215,0.05);
   border: 1px solid rgba(95,255,215,0.25);
   padding: 20px;
   border-radius: 14px;
   margin-bottom: 20px;
-}
-
-.card.small {
-  text-align: center;
 }
 
 .card h2 {
